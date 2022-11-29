@@ -1,0 +1,24 @@
+{
+  "name": "bn44",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.6.5",
+    "eslint": "^8.21.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.1.2",
+    "fs": "0.0.1-security",
+    "sequelize": "^6.21.3",
+    "source-server-query": "^3.0.3",
+    "sqlite3": "^5.0.11"
+  }
+}

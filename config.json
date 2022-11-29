@@ -1,0 +1,9 @@
+{
+    "clientId": "",
+	"guildId": "",
+	"token": "",
+
+	"VIRGINIASERVER": ["",7780],
+	"CHISERVER": ["",7780],
+	"EUSERVER": ["",33715]
+}
